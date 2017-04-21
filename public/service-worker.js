@@ -1,5 +1,5 @@
 // Set this to true for production
-var doCache = false;
+var doCache = true;
 
 // If we are in development, make sure we don't run into any cache issues
 // Delete them all
